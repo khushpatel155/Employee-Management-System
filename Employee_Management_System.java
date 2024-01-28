@@ -96,7 +96,7 @@ class EmployeeManagementSystem {
 }
 
 
-public class Main {
+public class Employee_Management_System {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         EmployeeManagementSystem ems = new EmployeeManagementSystem();
